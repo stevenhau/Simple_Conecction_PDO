@@ -3,7 +3,7 @@ Es una conexión a una base de datos con PDO (PHP Data Objects)
 
 Para abrir y utilizar la conexión necesitamos un servidor local instalado, en este ejemplo usare Xampp puede seguir los siguientes pasos agregue una ilustraciones para mejorar el entendimineto
 
-PASO 1 - Abrir Xammp e inicializar el servidor local.
+PASO 1 - Abrir Xampp e inicializar el servidor local.
 ![image](https://user-images.githubusercontent.com/86212752/141854469-f1b89040-7e11-446a-953b-40c1e257c12c.png)
 
 PASO 2 - Abrimos el archivo db_prueba.sql y copiamos el contenido
